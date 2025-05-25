@@ -74,7 +74,7 @@ footer{
 .content-bg {
     max-width:900px;
     max-height: 500px;
-    background: url('/placeholder-images/bright.jpg') center/cover;
+    background: url('./placeholder-images/bright.jpg') center/cover;
     margin-inline: auto;
     padding: 20px;
     box-shadow: 0 0 15px #00ffe7;
