@@ -254,7 +254,7 @@ footer{
   border: 2px solid #1e1e1e;   
 }
 .resume header::before{
-  background: url(/placeholder-images/bg-home-office-studio.jpg) center/cover; 
+  background: url(./placeholder-images/bg-home-office-studio.jpg) center/cover; 
     content:"";
     display:block;
     height:375px;
